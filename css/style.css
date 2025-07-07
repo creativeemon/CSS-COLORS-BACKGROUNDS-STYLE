@@ -1,0 +1,27 @@
+/*
+hex_color
+first a # dita hoy
+ 0-9
+ A-F
+ */
+#hex_color{
+    color: #3498db;
+}
+
+/*
+ rgb_color 
+ first a rgb thakta hobe er pore ()
+*/
+
+#rgb_color{
+    color: rgb(255, 99, 71);
+}
+/* 
+hsl_color
+hue:0-360% 
+saturation: 0-100%
+lightness :0-100%
+*/
+#hsl_color{
+    color: hsl(322, 100%, 48%);
+}
