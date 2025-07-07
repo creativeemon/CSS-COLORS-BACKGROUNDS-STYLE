@@ -29,3 +29,9 @@ lightness :0-100%
 .heading{
     color: #ff68ff;
 }
+
+.example_content{
+    background-color: rgb(255, 99, 71);
+    padding: 10px;
+    color: #ffffff;
+}
