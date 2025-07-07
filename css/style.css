@@ -42,4 +42,15 @@ lightness :0-100%
     background-position: center;
     height: 450px;
     padding: 20px;
+    margin-bottom: 5px;
+}
+.multiple_images{
+    background-image: url("../images/multiple_images.jpg") , url("../images/multiple_images1.jpg");
+    height: 500px;
+    background-repeat: no-repeat, no-repeat;
+
+    background-size: contain;
+    background-position:top left, bottom right ;
+    padding: 20px;
+
 }
